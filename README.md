@@ -20,7 +20,6 @@ This project is ideal for developers who want to understand:
 - Event-driven design in Solidity  
 
 ---
-![Uploading image.png…]()
 
 ## ⚙️ What It Does
 
