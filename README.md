@@ -26,7 +26,7 @@ This project is ideal for developers who want to understand:
 1. **Deploy** — The contract is deployed by a seller (the deployer), and the auction lasts for **1 day** by default.  
 2. **Bid** — Anyone can place a bid with ETH.  
 3. **Refunds** — If a new higher bid is placed, the previous highest bidder can withdraw their ETH safely.  
-4. **End Auction** — After the time expires, the seller can end the auction and receive the highest bid.
+4. **End Auction** — After the time expires, the seller can end the auction and receive the highest bid
 
 ---
 
